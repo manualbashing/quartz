@@ -1,3 +1,27 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.toc {
+    margin-top: 1em;
+    padding: 0.7em;
+    background-color: var(--highlight);
+}
+
+.content-meta {
+    font-family: var(--headerFont);
+    font-size: smaller;
+}
+
+.content-meta::before {
+    content: "📅 ";
+    margin-top: 0.7em;
+}
+
+.search>.search-button>p {
+    padding: 0;
+    display: none;
+}
+
+.darkmode {
+    margin-top: 2em;
+}
