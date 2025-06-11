@@ -29,3 +29,5 @@ Even though the garden metaphor is a good one, I'd rather call my digital garden
 [^1]: If you want to know more about this (and it is really worth it), have a look at Rudy Rucker's website where he has put most (if not all) of his books online. The resources that go deeper into the concept of the Lifebox and the impact it has on the future of communication are: [Saucer Wisdom](https://www.rudyrucker.com/lifebox/html/#calibre_link-209), [The Lifebox, the Seashell, and the Soul](https://www.rudyrucker.com/lifebox/html/) and his blog post on [Making a Lifebox](https://www.rudyrucker.com/blog/2016/06/29/making-a-lifebox/).
 
 # References
+
+[^ref]
