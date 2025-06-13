@@ -1,6 +1,8 @@
 ---
 title: pkg_resources deprecation warning in Azure CLI is breaking Azure Pipelines
 date: 2025-06-13T13:34:18
+socialImage: pg_resources-fail.png
+socialDescription: A userWarning in Azure CLI caused by setuptools currently fails Azure Pipeline tasks that have failOnStderr set to true. This can be fixed by pinning setuptools to a specific version.
 ---
 
 Recently I saw Azure Pipelines that use Azure CLI starting to fail with the following error message:
